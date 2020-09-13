@@ -1,0 +1,71 @@
+body{
+	background-color: black;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li{
+  float: right;
+}
+
+li a{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: green;
+}
+.active {
+  background-color: #4CAF50;
+}
+h3{
+	text-align: center;
+	color: white;
+}
+h1{
+	text-align: center;
+	color: white;
+	font-size: 3em;	
+}
+p{
+	text-align: center;
+	color: white;
+	font-size: 4em;
+}
+.container{
+	text-align: center;
+	text-decoration: none;
+}
+.btn{
+	border: 1px solid #3498db;
+	background : none;
+	padding: 10px 20px;
+	font-size: 20px;
+	font-family: "montserrat";
+	cursor: pointer;
+	margin: 10px;
+	
+}
+h2{
+	text-align: center;
+	color: white;
+	font-size: 3em;
+}
+.contact{
+	text-align: center;
+}
+h4{
+	text-align: center;
+	color: white;
+	font-size: 4em;
+}
